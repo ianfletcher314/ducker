@@ -1,0 +1,33 @@
+Background Image Information
+============================
+
+Filename: brazilian_night_ocean_blue.jpg
+
+Source: Unsplash (https://unsplash.com)
+Image URL: https://images.unsplash.com/photo-1507400492013-162706c8c05e
+Photographer: Search "night ocean blue" on Unsplash for attribution
+
+License: Unsplash License
+- Free for commercial and non-commercial use
+- No attribution required (but appreciated)
+- Cannot be sold without modification
+- Full license: https://unsplash.com/license
+
+Why it matches the Ducker plugin color scheme:
+----------------------------------------------
+The Ducker plugin uses a blue-dominant color scheme with purple accents:
+- Primary accent: Blue (#4a9eff)
+- Secondary: Purple (#8b5cf6)
+- Background: Dark gray (#1a1a1a)
+- LED color: Red (#ff3333)
+
+This night ocean image features:
+- Deep blue tones that complement the plugin's blue accent color
+- Dark atmosphere matching the plugin's dark UI aesthetic
+- Subtle variations of blue/purple that align with the ducking visualizations
+- Brazilian coastal aesthetic (Rio de Janeiro-inspired ocean views)
+
+Recommended usage:
+- Apply with low opacity (10-20%) behind the main UI
+- Slight darkening may be needed to maintain knob/control visibility
+- Consider a subtle blue gradient overlay to enhance color harmony
